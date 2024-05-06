@@ -1,0 +1,20 @@
+{
+  "name": "openapi-autowrapper",
+  "version": "1.0.0",
+  "description": "a dynamic OpenAPI/Swagger wrapper-builder with pretty console introspection",
+  "main": "OpenAPI.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/thot-experiment/openapi-autowrapper"
+  },
+  "keywords": [
+    "openapi",
+    "swagger",
+    "wrapper"
+  ],
+  "author": "thot-experiment",
+  "license": "MIT"
+}
